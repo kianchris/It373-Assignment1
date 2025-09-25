@@ -1,0 +1,7 @@
+Environment Checklist
+---------------------
+- Python version: 3.11.5
+- Virtual environment (venv) active: Yes
+- Django version: 4.2.1
+- runserver working: Yes
+- Git remote set: Yes (https://github.com/kianchris/It373-Assignment1.git)
